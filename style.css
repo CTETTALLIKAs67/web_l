@@ -1,0 +1,153 @@
+*{
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1170px;
+}
+
+.basic-text{
+    font-size: 14px;
+}
+
+.sec{
+    padding: 0 375px;
+}
+
+/* ---------------------------------header--------------------------------------- */
+
+
+.logo{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    color: white;
+    padding: 0 375px;
+}
+
+header a{
+    color: #FFFFFF;
+    font-weight: 500;
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+.cap{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    margin: 0 auto 30px auto
+}
+
+.blue_car{
+    background-color: #4A90E2;
+    border-radius: 3px;
+    padding: 3px 6px 3px 5px
+}
+
+
+
+/*------------------------------end_header-----------------------------*/
+
+/*---------------------------------main-----------------------------------*/
+.first{
+    width: 1170px;
+    padding: 0 375px;
+    height: 561px;
+    margin-bottom: 790px;
+}
+/*--------------------------------first_mersedes----------------------------*/
+
+
+
+.blue_vehicle {
+    color: #FFFFFF;
+    font-size: 12px;
+    width: 38px;
+    background-color: #4A90E2;
+    border-radius: 3px;
+    padding: 4px 12px 2px 12px;
+    margin: 0px 288px 389px 0px;
+    
+}
+
+.first_mersedes{
+    background-image: url(Image_6.jpg);
+    background-repeat: no-repeat;
+    height: 560px;
+    width: 383px;
+    color: #FFFFFF;
+    padding: 30px 0px 23px 20px;
+    margin-right: 30px;
+}
+
+.first_text{
+    width: 363px;
+    font-size: 26px;
+    font-weight: 550;
+}
+
+.in_first_section{
+    margin-bottom: 6px;
+    font-weight: 100;
+}
+
+.first_h2{
+    margin-top: 0;
+}
+
+/*------------------------------end_first_mersedes---------------------------*/
+/*-------------------------------top_line-------------------------------------*/
+
+.top_line{
+    padding: 0;
+}
+
+.left{
+    max-width: 265px;
+    height: 235px;
+    background-image: url(Image_2.jpg);
+    background-repeat: no-repeat;
+    padding: 30px 85px 0px 20px;
+    color:#FFFFFF;
+    margin-right: 30px;
+    margin-bottom: 29px;
+}
+
+.vehicle_small_image{
+    margin-bottom: 106px;
+}
+
+.text{
+    width: 255px;
+    height: 60px;
+    margin-top: 6px;
+    margin-bottom: 23px;
+    font-weight: 550;
+    font-size: 20;
+    line-height: 30px;
+}
+
+.Rickie{
+    margin-bottom: 0px;
+}
+
+
+.right{
+    max-width: 265px;
+    height: 235px;
+    background-image: url(Image_4.jpg);
+    background-repeat: no-repeat;
+    padding: 30px 85px 0px 20px;
+    color:#FFFFFF;
+    margin-right: 30px;
+    margin-bottom: 29px;
+}
+
+
